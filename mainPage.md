@@ -1,7 +1,9 @@
-#Code 201 Reading Notes
-This site wil be devoted to all the 15 readings during 201 course 
+# Code 201 Reading Notes
 
-| **The Reading # **| **The URL** | 
+This site wil be devoted to all the 15 readings during 201 course
+I hope you enjoy my readings :hibiscus: :relieved:
+
+| **The Reading num** | **The URL** | 
 |---------------|---------|
 |Read01         |         |
 |Read02         |         |
