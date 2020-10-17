@@ -28,6 +28,11 @@ declared
 
 ![](/images/R10-4.png)
 
+* track every statement to debug your script.
+* handle the errors: Try to narrow the problem where might be to ease tracking it.
 
+
+**Debugging**  is the process of finding errors. 
+**The console** helps narrow down the area in which the error is located, so you can try to find the exact error.
 
 
